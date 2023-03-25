@@ -1631,6 +1631,14 @@ ol {
   margin-bottom: 0;
 }
 
+.blog__details__text h4 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 31px;
+  margin-bottom: 20px;
+  color: #FFF;
+}
+
 .blog__details__quote {
   border: 1px solid rgba(225, 225, 225, 0.8);
   padding: 35px 90px 35px 40px;
